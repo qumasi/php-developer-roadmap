@@ -36,6 +36,7 @@ The repository is created when working on the following YouTube video [PHP Devel
 |-------------------------------------------|--------|---------------------------------------------------------|
 | How does the INTERNET work?               | 9m     | https://youtu.be/x3c1ih2NJEg                            |
 | How The Web Works - The Big Picture       | 12m    | https://youtu.be/hJHvdBlSxug                            |
+| History of the Web: From Vision to Reality| 11m    | https://youtu.be/7GLa6MxOHak                            |
 | How does the internet work? (Full Course) | 1h 42m | https://youtu.be/zN8YNNHcaZc                            |
 
 ### Browser/Server request flow, HTTP Protocol, Status codes
